@@ -13,6 +13,10 @@ mapped to the GPU because the library `libcudnn8` is not installed, then you can
 * `conda install -c anaconda cudnn`
 
 ## Files
+* `Recommender_Training.ipynb` -- This is a notebook used to prep data for training, train, save and analyze results.
+* `Recommender_Classification.ipynb` -- This is a notebook used classify with saved model settings.
+* `DataAugmentation.ipynb` -- This is a notebook used to gather, assemble and create data for training.
+* `Recommender_Lib.py` -- This is a python library of dev defined functions.
 
 ## General setup before running any code
 
