@@ -6,7 +6,7 @@
 * `conda activate Recommender`
 * `pip install tensorflow datasets jupyterlab numpy matplotlib pandas scikit-learn`
 
-Now, when you work in the project and/or run its code, do so in this NLP environment/conda space.
+Now, when you work in the project and/or run its code, do so in this Recommender environment/conda space.
 
 If you are attempting to train a tensorflow NN and are getting a warning about the work not being
 mapped to the GPU because the library `libcudnn8` is not installed, then you can install it via conda:
