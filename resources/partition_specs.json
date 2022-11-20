@@ -1,0 +1,25 @@
+{
+    "num_partitions": "18",
+    "partition_paths": [
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims0_thru_3497.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims3498_thru_6995.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims6996_thru_10493.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims10494_thru_13991.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims13992_thru_17489.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims17490_thru_20987.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims20988_thru_24485.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims24486_thru_27983.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims27984_thru_31481.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims31482_thru_34979.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims34980_thru_38477.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims38478_thru_41975.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims41976_thru_45473.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims45474_thru_48971.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims48972_thru_52469.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims52470_thru_55967.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims55968_thru_59465.npz",
+        "/home/michael/Desktop/UNM Fall 2022/BigData/Recommender/Recommender/resources/cosine_sim_partitions/cosine_sims59466_thru_62966.npz"
+    ],
+    "num_rows_per_partition": "3498",
+    "num_extra_rows_in_last_partition": "3"
+}
