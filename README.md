@@ -15,8 +15,8 @@
 * `resources/DataAugmenttion_Lib.py` -- This is a python library of dev defined functions and state used by `DataAugmentation.ipynb`
 
 ## General setup before running any code
--- None. All necessary data is fetched at runtime if it does not exist via download from google drive.
--- Note: There is alot of data here during run time. If using the notebooks, you will probably have to reset your kernel between using `resources/DataAugmentation.ipynb` to `Recommender_Construction.ipynb` to `Recommender_Classification.ipynb` so as to dump the jupyter notebook states saved in RAM.
+* None. All necessary data is fetched at runtime if it does not exist via download from google drive.
+* Note: There is alot of data here during run time. If using the notebooks, you will probably have to reset your kernel between using `resources/DataAugmentation.ipynb` to `Recommender_Construction.ipynb` to `Recommender_Classification.ipynb` so as to dump the jupyter notebook states saved in RAM.
 
 ## Using the Recommender code
 * You can find some nice comments and explainations throughout the code, in both the notebook files and amongst the functions in DataAugmentation_Lib.py and Recommender_Lib.py
