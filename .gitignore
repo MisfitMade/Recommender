@@ -159,6 +159,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# Do not add the folders that have the too big of files thru git.
+# They are fetched via download from google drive if they do not exist at runtime
 resources/Glove_twitter_vers/
 resources/MovieLens/
-resources/Processed_Matrices/
+resources/Processed_Data/
+resources/cosine_sim_partitions/
